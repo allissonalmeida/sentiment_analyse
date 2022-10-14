@@ -11,3 +11,6 @@
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
 * [Conclusão](#conclusão)
+
+
+> :construction: Projeto em construção :construction:
